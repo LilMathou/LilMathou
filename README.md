@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-Je suis passionné par le **développement**.<br>
-Actuellement, je suis en Technique de l'Informatique au CÉGEP.
+Je suis passionné par le <b>développement</b>.<br>
+Actuellement, je suis en <b>Technique de l'Informatique</b> au CÉGEP.
 </p>
 
 ###
