@@ -42,6 +42,10 @@ Je suis un développeur québécois passionné par la programmation et j'aime ap
 
 ---
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=LilMathou&theme=tokyonight)
+
+---
+
 ## Me contacter
 
 <p>
